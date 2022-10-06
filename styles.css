@@ -10,7 +10,7 @@ body {
 	background-color: #353a40;
 }
 .bg-image {
-	background: rgba(0, 0, 0, 0.74);
+	background: rgba(0, 0, 0, 0.70);
 }
 .btn-green {
 	background: #96c93e !important;
@@ -40,7 +40,7 @@ body {
 
 /* Imagen */
 .div-image {
-	background-image: url(./images/ba1.jpg);
+	background-image: url(./ba1.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
